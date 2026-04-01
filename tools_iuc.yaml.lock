@@ -1367,7 +1367,7 @@ tools:
 - name: pretext_graph
   owner: iuc
   revisions:
-  - 36ce83a739f2
+  - 8e422c873d02
   - 936a1edffce8
   - eca7d3a0c5f2
   tool_panel_section_label: Assembly
@@ -2152,7 +2152,7 @@ tools:
 - name: revoluzer_crex
   owner: iuc
   revisions:
-  - 43af02990a47
+  - 15317b79c449
   - b64c033f5b02
   - e0b7c98f29bb
   tool_panel_section_label: Evolution
@@ -3434,12 +3434,12 @@ tools:
 - name: pretext_snapshot
   owner: iuc
   revisions:
-  - 0cc7a80463b9
   - 26f2fe7e53a1
   - 44c66e8d21e6
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - ff02cf8f66f0
   tool_panel_section_label: Graph/Display Data
 - name: pygenometracks
   owner: iuc
@@ -7531,12 +7531,6 @@ tools:
   revisions:
   - fae03f3d4bf7
   tool_panel_section_label: Nanopore
-# never worked, never used
-#- name: annotation_profiler
-#  owner: devteam
-#  revisions:
-#  - 3b33da018e74
-#  tool_panel_section_label: Operate on Genomic Intervals
 - name: basecoverage
   owner: devteam
   revisions:
